@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/accountFragment"
+        android:icon="@drawable/avs_user"
+        android:title="حساب کاربری" />
+    <item
+        android:id="@+id/searchFragment"
+        android:icon="@drawable/avs_search"
+        android:title="جستجو" />
+    <item
+        android:id="@+id/dashboardFragment"
+        android:icon="@drawable/avs_dashboard"
+        android:title="دسته\u200cبندی" />
+    <item
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/avs_home"
+        android:title="خانه" />
+</menu>
